@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ... I'm not sure yet. I'm working on my first functioning webpage with multiple pages
 - 📫 How to reach me ... Right here at github
 - 😄 Pronouns: ...Apache/Helicopter
-- ⚡ Fun fact: ... I'm not really an Apache Helicoptet😭🫠
+- ⚡ Fun fact: ... I'm not really an Apache Helicopter😭🫠
+- I really don't know why I'm here o  github, I'm confused as hell🥴
 
 <!---
 Tommy-Raven/Tommy-Raven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
