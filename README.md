@@ -20,7 +20,7 @@
 - AI Researcher & Developer specializing in recursive & modular workflow generation  
 - Python, NetworkX, Graphviz, JSON/YAML & ML pipelines  
 - Enthusiast of automation, structured knowledge, and AI-assisted learning  
-- Cat lover & music enthusiast  
+- dog lover & music enthusiast  
 
 <h2>:busts_in_silhouette: Connect with Me</h2>
 <a href="https://github.com/Tommy-Raven"><img alt="GitHub" src="https://img.shields.io/github/followers/Tommy-Raven?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@Tommy-Raven" /></a>
