@@ -12,7 +12,7 @@
 
 <div align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Tom+Knocker;He/him;AI+Researcher;Python+Developer;Workflow+Engineer;Cat+Lover+:3;Music+Lover+%3C3;function+exploreAI(42)" alt="AI researcher, Python dev, workflow engineer, cat lover" />
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Tom+Knocker;AI+Researcher;Python+Developer;Workflow+Engineer;Dog+Lover+:3;Music+Lover+%3C3;function+exploreAI(42)" alt="AI researcher, Python dev, workflow engineer, dog lover, musician" />
 </a>
 </div>
 
@@ -25,7 +25,7 @@
 <h2>:busts_in_silhouette: Connect with Me</h2>
 <a href="https://github.com/Tommy-Raven"><img alt="GitHub" src="https://img.shields.io/github/followers/Tommy-Raven?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@Tommy-Raven" /></a>
 <a href="https://www.linkedin.com/in/tom-knocker/"><img alt="LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/tom-knocker&color=0A66C2&style=for-the-badge&logo=linkedin" /></a>
-<a href="mailto:tomraven@example.com"><img alt="Email" src="https://img.shields.io/static/v1?label&message=tomraven@example.com&color=whitesmoke&style=for-the-badge&logo=gmail" /></a>
+<a href="mailto: GitHub /Tommy-Raven"><img alt="Email" src="https://img.shields.io/static/v1?label&message=tomraven@example.com&color=whitesmoke&style=for-the-badge&logo=gmail" /></a>
 
 <h2>:bulb: Languages & Tools</h2>
 <code><img title="Python" alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
@@ -46,10 +46,7 @@
 <code><img title="Heroku" alt="heroku" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" /></code>
 <code><img title="GIMP" alt="gimp" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" /></code>
 
-<details>
-<summary>Click here for a cute surprise! :3</summary>
-<img src="https://cat-gifs.cyclic.app">
-</details>
+
 
 <h2>:books: My Projects</h2>
 <a href="https://github.com/Tommy-Raven/AI_instructions_workflow">
