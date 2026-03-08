@@ -17,13 +17,20 @@
 </div>
 
 <h2>ℹ️ About Me</h2>
-- AI Researcher & Developer dabbling in recursive AI & fringe-conceptual and non-traditional modular design of engineered systems. My (self-proclaimed) top 3 Projects 
+- AI Researcher & Developer dabbling in recursive AI & fringe-conceptual and non-traditional modular design of engineered systems. My (self-proclaimed) top 3 Projects:
    >   Designing and instituting SLML, a design-time structural legitimacy evaluation standards framework
+   
    >   Designing and conceptualizing SSWG-MVM (sswg mvm) a recursively generative modularized AI workflow software
+   
    >   Am in the designing stages of `Pass-Work` an advanced, modularized Python3-based, local research database/tooling, free of dependencies and fully-operable offline, software that combines password/login data corpus extrction, collection, and generation,  entwined with entropy analysis, modeling, and integrating established tooling, professional, it is a thoughtfully-developed modular toolkit for evaluating password strength, generating secure wordlists, and simulating cracking attacks. The framework emphasizes modularity, allowing users to customize and extend functionality while maintaining a clean separation of concerns.
-- Python, NetworkX, Graphviz, JSON/YAML & ML pipelines  
+
+- Python/JSON/TOML pipelines, OS Linux: Debian Testing, Kali Live
+
+-VSCode, GitHub, IDLE-Python 13/14, InkScape, FontForge, Ardour/LSP plugins, Audacity, Kali-Tooling, LaTex, OSINT, Networking
+
 - Enthusiast of engineered system, AI automation, structured and curated knowledge, and AI-assisted learning and technmological advancement
-- dog lover & music enthusiast  
+
+- dog lover & musician  
 
 <h2>:busts_in_silhouette: Connect with Me</h2>
 <a href="https://github.com/Tommy-Raven"><img alt="GitHub" src="https://img.shields.io/github/followers/Tommy-Raven?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@Tommy-Raven" /></a>
