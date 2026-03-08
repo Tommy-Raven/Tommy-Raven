@@ -18,9 +18,10 @@
 
 <h2>ℹ️ About Me</h2>
 - AI Researcher & Developer dabbling in recursive AI & fringe-conceptual and non-traditional modular design of engineered systems. My (self-proclaimed) top 3 Projects:
-   >   Designing and instituting SLML, a design-time structural legitimacy evaluation standards framework
+
+   >   Designing and instituting `SLML`, a design-time structural legitimacy evaluation standards framework
    
-   >   Designing and conceptualizing SSWG-MVM (sswg mvm) a recursively generative modularized AI workflow software
+   >   Designing and conceptualizing `SSWG-MVM` / `sswg mvm` a recursively generative modularized AI workflow software
    
    >   Am in the designing stages of `Pass-Work` an advanced, modularized Python3-based, local research database/tooling, free of dependencies and fully-operable offline, software that combines password/login data corpus extrction, collection, and generation,  entwined with entropy analysis, modeling, and integrating established tooling, professional, it is a thoughtfully-developed modular toolkit for evaluating password strength, generating secure wordlists, and simulating cracking attacks. The framework emphasizes modularity, allowing users to customize and extend functionality while maintaining a clean separation of concerns.
 
