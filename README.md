@@ -24,7 +24,6 @@
 
 <h2>:busts_in_silhouette: Connect with Me</h2>
 <a href="https://github.com/Tommy-Raven"><img alt="GitHub" src="https://img.shields.io/github/followers/Tommy-Raven?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@Tommy-Raven" /></a>
-<a href="https://www.linkedin.com/in/tom-knocker/"><img alt="LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/tom-knocker&color=0A66C2&style=for-the-badge&logo=linkedin" /></a>
 <a href="mailto: GitHub /Tommy-Raven"><img alt="Email" src="https://img.shields.io/static/v1?label&message=tomraven@example.com&color=whitesmoke&style=for-the-badge&logo=gmail" /></a>
 
 <h2>:bulb: Languages & Tools</h2>
@@ -42,15 +41,15 @@
 <code><img title="VS Code" alt="vscode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
 <code><img title="Git" alt="git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
 <code><img title="Linux" alt="linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
-<code><img title="Ubuntu" alt="ubuntu" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></code>
-<code><img title="Heroku" alt="heroku" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" /></code>
-<code><img title="GIMP" alt="gimp" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" /></code>
-
+<code><img title="Debian" alt="debian" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg" /></code>
 
 
 <h2>:books: My Projects</h2>
-<a href="https://github.com/Tommy-Raven/AI_instructions_workflow">
-<img alt="AI Instructions Workflow repo" src="https://github-readme-stats.vercel.app/api/pin/?username=Tommy-Raven&repo=AI_instructions_workflow&theme=midnight-purple&hide_border=true">
+<a href="https://github.com/Tommy-Raven/sswg-mvm">
+<img alt="SSWG-MVM repo" src="https://github-readme-stats.vercel.app/api/pin/?username=Tommy-Raven&repo=sswg-mvm&theme=midnight-purple&hide_border=true">
+</a>
+<a href="https://github.com/Tommy-Raven/slml-standard">
+<img alt="SSWG-MVM repo" src="https://github-readme-stats.vercel.app/api/pin/?username=Tommy-Raven&repo=slml-standard&theme=midnight-purple&hide_border=true">
 </a>
 
 <h2>:octocat: GitHub Stats</h2>
