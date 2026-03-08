@@ -8,18 +8,21 @@
 - I really don't know why I'm here on github, I'm confused as hell🥴
 
 <div id="top"></div>
-<div align="center"><img width="100%" alt="welcome to my profile!" src="https://github.com/Tommy-Raven/AI_instructions_workflow/assets/header.png"></div>
+<div align="center"><img width="100%" alt="Thanks for checking out my profile!" src="https://github.com/Tommy-Raven/slml-standard/assets/header.png"></div>
 
 <div align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Tom+Knocker;AI+Researcher;Python+Developer;Workflow+Engineer;Dog+Lover+:3;Music+Lover+%3C3;function+exploreAI(42)" alt="AI researcher, Python dev, workflow engineer, dog lover, musician" />
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Tom+Knocker;AI+Safety+and+Research+Developer;Python+Developer;Systems+Engineering+and+Architectural+Designer;I+love+my+Yorkie+3;Music+Lover+and+Multi-Instrumentalist+%3C3;function+exploreAI(42)" alt="AI safety researcher and developer, Python dev, conceptual systems engineer and architectural designer, dog lover, musician" />
 </a>
 </div>
 
 <h2>ℹ️ About Me</h2>
-- AI Researcher & Developer specializing in recursive & modular workflow generation  
+- AI Researcher & Developer dabbling in recursive AI & fringe-conceptual and non-traditional modular design of engineered systems. My (self-proclaimed) top 3 Projects 
+   >   Designing and instituting SLML, a design-time structural legitimacy evaluation standards framework
+   >   Designing and conceptualizing SSWG-MVM (sswg mvm) a recursively generative modularized AI workflow software
+   >   Am in the designing stages of `Pass-Work` an advanced, modularized Python3-based, local research database/tooling, free of dependencies and fully-operable offline, software that combines password/login data corpus extrction, collection, and generation,  entwined with entropy analysis, modeling, and integrating established tooling, professional, it is a thoughtfully-developed modular toolkit for evaluating password strength, generating secure wordlists, and simulating cracking attacks. The framework emphasizes modularity, allowing users to customize and extend functionality while maintaining a clean separation of concerns.
 - Python, NetworkX, Graphviz, JSON/YAML & ML pipelines  
-- Enthusiast of automation, structured knowledge, and AI-assisted learning  
+- Enthusiast of engineered system, AI automation, structured and curated knowledge, and AI-assisted learning and technmological advancement
 - dog lover & music enthusiast  
 
 <h2>:busts_in_silhouette: Connect with Me</h2>
