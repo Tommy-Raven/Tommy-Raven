@@ -1,53 +1,51 @@
-- 👋 Hi, I’m Tommy Raven
-- 👀 I’m interested in ... A lot of things, this might be a hyperfixation, but i haven't lost interest yet.
-- 🌱 I’m currently learning Python, SQL-lite, Cross-Language Hybridization, LLM and AI generative engineerimg
-- 💞️ I’m looking to collaborate on ... I'm not sure yet. I'm working on my first functioning AI-workflow generator.
-- 📫 How to reach me ... Right here at github
-- 😄 Pronouns: ...Apache/Helicopter
-- ⚡ Fun fact: ... I'm not really an Apache Helicopter😭🫠
-- I really don't know why I'm here on github, I'm confused as hell🥴
-
-<div id="top"></div>
+# Tommy Raven
 
 <div align="center">
-<img width="100%" alt="Thanks for checking out my profile!" src="https://github.com/Tommy-Raven/slml-standard/assets/header.png">
+  <img width="100%" alt="Welcome to my profile" src="https://github.com/Tommy-Raven/slml-standard/assets/header.png">
 </div>
 
 <div align="center">
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=500&lines=I'm+Tommy+Raven;AI+Safety+and+Research+Developer;Python+Systems+Engineer;Architectural+Systems+Designer;Yorkie+Enthusiast;Music+Lover+and+Multi-Instrumentalist;function+exploreAI(42)" />
-</a>
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=500&lines=AI+Safety+and+Research+Developer;Python+Systems+Engineer;Architectural+Systems+Designer;Yorkie+Enthusiast;Music+Lover+and+Multi-Instrumentalist" />
+  </a>
 </div>
 
 ---
 
-# ℹ️ About Me
+## ℹ️ About Me
 
-**Tommy Raven**  
-AI researcher, systems engineer, and developer focused on structured design frameworks, modular architectures, and AI-assisted technological development.
+I am an AI researcher, systems engineer, and developer specializing in structured design frameworks, modular architectures, and AI-assisted technological development. My work focuses on recursive AI workflows, system legitimacy frameworks, and modular security research tooling.
 
-My work explores **recursive AI workflows, system legitimacy frameworks, and modular security research tooling**.
-
-### Core Research Projects
-
-**SLML — Structural Legitimacy Modeling Language**
-
-A design-time framework for evaluating the structural validity of engineered systems.  
-SLML formalizes architectural reasoning and system integrity validation before implementation.
+### Core Research Interests
+- Python development
+- SQL and database systems
+- Cross-language integration
+- Large Language Models (LLMs) and AI generative engineering
 
 ---
 
-**SSWG-MVM — Self-Structuring Workflow Generator**
+## 🚀 Projects
 
-A recursively generative modular workflow engine designed for building complex AI-driven pipelines.
+### SLML — Structural Legitimacy Modeling Language
+A design-time framework for evaluating the structural validity of engineered systems. SLML formalizes architectural reasoning and system integrity validation before implementation.
 
-The framework emphasizes:
+### SSWG-MVM — Self-Structuring Workflow Generator
+A recursively generative modular workflow engine designed for building complex AI-driven pipelines. Key features include:
+- Modular architecture
+- Recursive task orchestration
+- AI-assisted workflow generation
 
-• modular architecture  
-• recursive task orchestration  
-• AI-assisted workflow generation  
+---
+
+## 📫 Contact
+- **GitHub**: [Tommy-Raven](https://github.com/Tommy-Raven)
+- **Pronouns**: Apache/Helicopter (Note: This is a playful reference; I use he/him pronouns)
+
+---
+
+<p align="center">
+  <i>Exploring the intersection of AI, systems engineering, and innovative design.</i>
+</p>  
 • structured system reasoning
 
 ---
