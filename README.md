@@ -26,10 +26,10 @@ I am an AI researcher, systems engineer, and developer specializing in structure
 
 ## 🚀 Projects
 
-### SLML — Structural Legitimacy Modeling Language
+### SLML — Structural Legitimacy Manifest Language
 A design-time framework for evaluating the structural validity of engineered systems. SLML formalizes architectural reasoning and system integrity validation before implementation.
 
-### SSWG-MVM — Self-Structuring Workflow Generator
+### SSWG-MVM — Synthetic Synthesist of Workflow Generation
 A recursively generative modular workflow engine designed for building complex AI-driven pipelines. Key features include:
 - Modular architecture
 - Recursive task orchestration
