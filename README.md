@@ -85,46 +85,61 @@ The system emphasizes **clean modularity and extensibility** while maintaining f
 
 ---
 
-# 🔬 Technology Stack
+# 🖥️ Primary OS, Platforms & Hardware Environment
 
-### Languages & Data Pipelines
+## Operating Systems
+- Windows 11 (Microsoft) — primary workspace for VSCode‑based dev‑ops, Git workflows, and general development  
+- Kali Linux — dedicated environment for security research, penetration‑testing, OSINT, and tooling validation  
+- Debian 14 / Debian Testing — stable Linux base for dev‑ops automation, service orchestration, and containerized pipelines  
 
-<code><img title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></code>
-<code><img title="JSON" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg"/></code>
-<code><img title="TOML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/toml/toml-original.svg"/></code>
-
-Python pipelines built around **JSON and TOML configuration ecosystems** for structured automation.
-
----
-
-### Platforms
+## Platforms
 
 <code><img title="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/></code>
 <code><img title="Debian Testing" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg"/></code>
 <code><img title="Kali Linux Live" width="40px" src="https://www.kali.org/images/kali-logo.svg"/></code>
 
-Primary environment:
-
-**Debian Testing workstation + Kali Live research environment**
+## Primary Testing environment:  
+Debian Testing workstation + Kali Live research environment
 
 ---
 
-### Development & Tooling
+## 💻 Hardware Profile
+
+Primary Machine:  
+- 2017 HP Pavilion Notebook  
+  - CPU: Intel Core i5  
+  - Integrated GPU: Intel HD Graphics 530  
+  - Discrete GPU: Nvidia GeForce 950M  
+  - Supports hybrid Windows/Linux workflows, virtualization, and multi‑distro development
+
+---
+
+## 🧩 Languages & Data Pipelines
+
+<code><img title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></code>
+<code><img title="JSON" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg"/></code>
+<code><img title="TOML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/toml/toml-original.svg"/></code>
+
+Python‑driven automation pipelines built around JSON and TOML configuration ecosystems, enabling deterministic, structured, and environment‑portable dev‑ops workflows across Windows, Kali, and Debian.
+
+---
+
+## 🛠️ Development & Tooling
 
 <code><img title="VSCode" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/></code>
 <code><img title="GitHub" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></code>
 <code><img title="Inkscape" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg"/></code>
 <code><img title="FontForge" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/6/60/FontForge_logo.svg"/></code>
 <code><img title="Ardour DAW" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Ardour_logo.svg"/></code>
-<code><img title="Audacity" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Audacity_Logo_nofilter.svg"/></code>
+<code><img title="Audacity" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/AudacityLogonofilter.svg"/></code>
 <code><img title="LaTeX" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"/></code>
 
-Additional areas of work include:
-
-• OSINT research  
-• networking analysis  
-• Kali security tooling  
-• audio engineering with Ardour + LSP plugins  
+Additional areas of work include:  
+>
+>• OSINT research  
+>• networking analysis  
+>• Kali security tooling  
+>• audio engineering with Ardour + LSP plugins
 
 ---
 
